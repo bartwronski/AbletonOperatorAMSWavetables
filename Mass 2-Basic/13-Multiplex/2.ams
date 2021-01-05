@@ -1,0 +1,51 @@
+AMS 1
+Generate MultiCycleFM
+BaseFreq 261.625549
+RootKey 60
+SampleRate 44100
+Channels 1
+BitsPerSample 32
+Volume Auto
+Sine 1 1.00
+Sine 2 0.17
+Sine 3 0.33
+Sine 4 0.08
+Sine 5 0.19
+Sine 6 0.06
+Sine 8 0.38
+Sine 9 0.02
+Sine 10 0.03
+Sine 11 0.08
+Sine 12 0.03
+Sine 13 0.07
+Sine 14 0.02
+Sine 15 0.06
+Sine 16 0.02
+Sine 17 0.06
+Sine 18 0.02
+Sine 19 0.05
+Sine 20 0.02
+Sine 21 0.04
+Sine 22 0.02
+Sine 24 0.13
+Sine 26 0.01
+Sine 27 0.03
+Sine 28 0.01
+Sine 29 0.03
+Sine 30 0.01
+Sine 31 0.03
+Sine 32 0.01
+Sine 33 0.03
+Sine 35 0.03
+Sine 37 0.02
+Sine 40 0.08
+Sine 43 0.02
+Sine 45 0.02
+Sine 47 0.02
+Sine 49 0.02
+Sine 51 0.02
+Sine 53 0.02
+Sine 56 0.05
+Sine 59 0.01
+Sine 61 0.02
+Sine 63 0.02
