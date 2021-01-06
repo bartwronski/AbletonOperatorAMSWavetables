@@ -1,6 +1,6 @@
 # Ableton Operator AMS Wavetables
 Some "massive" wavetables for Ableton Operator additive synthesis oscillators and a Python script to create new ones.
-For explanation of how this works, please [check out my blog post](https://bartwronski.com/2021/01/04/converting-wavetables-to-ableton-operator-ams-waves/) about this idea and implementation and how it works.
+For explanation of how this works, please [check out my blog post](https://bartwronski.com/2021/01/05/converting-wavetables-to-ableton-operator-ams-waves/) about this idea and implementation and how it works.
 
 Hopefully you'll learn something new about additive synthesis used in **Ableton**'s **Operator**s.
 
